@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**gzoub/gzoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm GIORGOS, a sofware engineer from greece
 
-Here are some ideas to get you started:
+I like working on fun and practical projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MY best and favorites languages are C,C++ and python
+
+I am still a student so i dont have many large scale projects yet but i am really proud of my small smart projects
+
+HOBBIES:
+- CHESS
+- MOVIES/SERIES
+- SPORTS/GYM
+
