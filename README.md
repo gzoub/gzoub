@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm GIORGOS</h1>
 <h3 align="center">A passionate software engineer from Greece</h3>
 
+I like working on fun and practical projects
+
+MY best and favorites languages are C,C++ and python
+
+I am still a student so i dont have many large scale projects yet but i am really proud of my small smart projects
+
 - 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **gzoub05@gmail.com**
